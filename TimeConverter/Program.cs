@@ -8,8 +8,15 @@ namespace TimeConverter
         {
             // intro menu with signature here
             // switch function for different methods
-            Methods.WhichDay();
 
+
+
+            // function testing here
+
+            Intro.IntroCard();
+            Methods.substraction();
+
+            // bank functions here
 
         }
     }
