@@ -14,7 +14,7 @@ namespace TimeConverter
             // function testing here
 
             Intro.IntroCard();
-            Methods.substraction();
+            AdditionAndSubstraction.substractionHours();
 
             // bank functions here
 
