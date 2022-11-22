@@ -18,6 +18,7 @@ namespace TimeConverter
             Console.WriteLine("############################################");
             Console.WriteLine(
                         FiggleFonts.Ogre.Render("Time Converter!"));
+            Console.WriteLine("-by rayan z.");
             Console.WriteLine("############################################");
             Console.WriteLine("############################################");
 

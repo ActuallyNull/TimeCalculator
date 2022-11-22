@@ -26,7 +26,7 @@ namespace TimeConverter
             var dtadded = dt.AddHours(add);
             Console.WriteLine(dtadded.ToString("H:mm"));
 
-            // fixed
+            
         }
 
         public static void substractionHours()
@@ -46,7 +46,7 @@ namespace TimeConverter
             Console.WriteLine(dtsubstracted.ToString("H:mm"));
         }
 
-        public static void additionMinutes()
+        public static void AdditionMinutes()
         {
             DateTime dt = DateTime.Now;
             Console.WriteLine("How many minutes would you like to add to your local time?");
@@ -63,7 +63,7 @@ namespace TimeConverter
 
         }
 
-        public static void additionSeconds()
+        public static void AdditionSeconds()
         {
             DateTime dt = DateTime.Now;
             Console.WriteLine("How many seconds would you like to add to your local time?");

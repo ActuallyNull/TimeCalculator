@@ -15,7 +15,7 @@ namespace TimeConverter
             
             var datetime = DateTime.Now;
             datetime.ToString("H:mm");
-            // ToUniversalTime = UTC (universal coordin)
+            // ToUniversalTime = UTC (coordinated universal time)
             Console.WriteLine(datetime.ToUniversalTime);
 
         }
