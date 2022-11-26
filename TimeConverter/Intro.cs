@@ -18,7 +18,7 @@ namespace TimeCalculator
             Console.WriteLine("############################################");
             Console.WriteLine(
                         FiggleFonts.Ogre.Render("Time Converter!"));
-            Console.WriteLine("-by rayan z.");
+            Console.WriteLine("-by null");
             Console.WriteLine("############################################");
             Console.WriteLine("############################################");
 
