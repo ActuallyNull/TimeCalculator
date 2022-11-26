@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
-namespace TimeConverter
+namespace TimeCalculator
 {
     class FullScreenTest
     {

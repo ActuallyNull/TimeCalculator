@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // ctrl c + v NuGet\Install-Package Figgle -Version 0.4.1 in package manager console. big thanks to the man himself
 using Figgle;
 
-namespace TimeConverter
+namespace TimeCalculator
 {
     internal class Intro
     {

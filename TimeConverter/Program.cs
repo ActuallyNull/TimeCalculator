@@ -7,7 +7,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace TimeConverter
+namespace TimeCalculator
 {
     internal class Program
     {
@@ -84,14 +84,13 @@ namespace TimeConverter
                     Thread.Sleep(500);
                     break;
                 case "n":
-                    Thread.Sleep(500);
+                    Thread.Sleep(1000);
                     break;
 
 
 
             }
             // function testing here
-
 
 
             // bank functions here
